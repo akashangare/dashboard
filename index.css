@@ -1,0 +1,23 @@
+
+.logo{
+  border: 1px;
+  margin-top: 20px;
+}
+.Group {
+  width: 645px;
+  height: 896px;
+}
+  .Foot{
+    text-align:center;
+    height:100px;
+    width:100%;
+    margin-top:10px;
+  }  
+.form-control{
+  height:50px;
+  width:100%;
+}
+.form-group{
+  margin-top: 100px;
+  margin-bottom: 50px;
+}

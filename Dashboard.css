@@ -1,0 +1,58 @@
+.login__form {
+    width: 19%;
+    padding: 33px 40px 30px 51px;
+    border: 1px solid #eadede;
+    position: fixed;
+    right: 91px;
+    bottom: 25px;
+    z-index: 100;
+    background: white;
+
+}
+#left {    
+    text-align: left;  
+    } 
+
+.img{
+    text-align: left; 
+    margin: 0;
+    padding: 0;
+    width: 10px;
+}
+.login__form h5{
+    color:#eadede;
+    margin: 19px 0;
+    text-align: left;
+}
+.login{
+    margin: 5px 0;
+    text-align: left; 
+    width: 58px;
+  height: 15px;
+  margin: 0 72px 23px 1px;
+} 
+.login__form .input{
+    width: 242px;
+    height: 40px;
+    margin: 17px 1px 14px 0;
+    padding: 1px 87px 8px 83px;
+    border-radius: 4px;
+    background-color: #eadede;
+  }
+.login__form button{
+    width: 242px;
+    height: 40px;
+    margin: 17px 1px 14px 0;
+    padding: 1px 87px 8px 83px;
+    border-radius: 4px;
+    background-color: #216bf3;
+  }
+.foot{
+    position: fixed;
+    width: 100%;
+    width: 450px;
+  height: 33px;
+  margin: 343px 0 0 1px;
+  padding: 9px 379px 10px;
+  background-color: #4b6abd;
+}
